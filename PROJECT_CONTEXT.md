@@ -74,11 +74,11 @@ Datos
 
 ## Estado actual
 
-Estamos en la preparación inicial del portafolio.
+El repositorio público `data-science-portfolio` ya está creado en GitHub y contiene la estructura inicial. El README del perfil está en el repositorio `tafurcesarfabian-gif`.
 
 **Todavía NO hemos empezado a programar ni a descargar/procesar el dataset.**
 
-El siguiente paso es preparar GitHub y crear el repositorio del proyecto.
+El siguiente paso es revisar la estructura y la protección de archivos antes de continuar con el Proyecto 1.
 
 ## Reglas de trabajo
 
